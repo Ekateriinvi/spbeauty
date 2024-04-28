@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 const Input = styled.input`
+    minWidth: 440px;
     outline: none;
-    min-width: 100%;
     border-radius: 24px;
     border: solid #E2E8F0 1px;
     background-color: #F8FAFC;
